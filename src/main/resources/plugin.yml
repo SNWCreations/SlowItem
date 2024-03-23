@@ -1,0 +1,4 @@
+name: SlowItem
+version: '${version}'
+main: snw.slowitem.SlowItem
+api-version: '1.20'
